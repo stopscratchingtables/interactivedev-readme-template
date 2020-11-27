@@ -1,39 +1,36 @@
-# Your Project's Name
+# The Beatles Merchandise and Fan Page
 
-One or two paragraphs providing an overview of your project. Tell us about your project.
+Music... It's a way of escape from life, work, and the everyday struggles.
+Just when you think music hasn't gotten even better, wait till you listen to THE GREATEST BAND OF ALL TIME... "THE BEATLES!"
+They produced music for a period of time in the 1950s to 1960s. Their music is what can hit you home after a long day or want
+to brighten up your morning!
 
-Essentially, this part is your sales pitch.
+With my assignment project being, "The Beatles". I want to convince you that they are THE GREATEST BAND EVER and I hope I will
+be able to cheer your day up by introducing you to some of their music. and hey, if you like it, you may even purchase some of their merchandise!
  
 ## Design Process
- 
-Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
-
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. 
-These files should themselves either be included as a pdf file in the project itself (in an separate directory)
-Include the Adobe XD wireframe as a folder. You can include the XD share url. 
+This website is intended for the average person, more specifically a person interested in music! My aim of this website is to beef up your music
+playlist with another few classics from the Beatles. Their songs have definitely changed my prespective and my way of looking at life. I hope it
+will do the same for many others who many see this website.
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+Now, Let me introduce to you My Features!
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+- Allows users to look through the background of the singers in the band
+- Allows users to watch from a variety of videos
+- Listen to preview of 3 songs from 3 different albums
+- A Slideshow to preview the different albums
+- A Directory to their social media pages to catch up with their latest news
+- A Timeline of what the beatles have gone through over the years they were together
+- MERCH STORE! You can buy clothes, hoodies and bags from THE BEATLES! How exciting is that?!
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-### Features Left to Implement
-- Another feature idea
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+HTML, CSS, Videos, Audios
 
 
 ## Testing
@@ -55,11 +52,21 @@ If this section grows too long, you may want to split it off into a separate fil
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+The text for the website has been taken from:
+https://en.wikipedia.org/wiki/George_Harrison
+https://en.wikipedia.org/wiki/John_Lennon
+https://en.wikipedia.org/wiki/Paul_McCartney
+https://en.wikipedia.org/wiki/George_Harrison
+https://en.wikipedia.org/wiki/The_Beatles_(album)
+https://en.wikipedia.org/wiki/Help!
+https://en.wikipedia.org/wiki/Abbey_Road
+
+and my personal knowledge from being a long time BEATLES FAN
 
 ### Media
-- The photos used in this site were obtained from ...
+The photos used in this site were obtained from:
+https://www.thebeatles.com/
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I received inspiration for this project from project idea 2 and admiration for the beatle's music!
